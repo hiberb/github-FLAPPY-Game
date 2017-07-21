@@ -1,2 +1,2 @@
 github-FLAPPY-Game
-Processing-FLAPPY-Game
+Processing-FLAPPY Game
